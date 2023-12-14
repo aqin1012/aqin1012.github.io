@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as e}from"./chunks/framework.vB1haF5z.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/跨域问题.md","filePath":"articles/跨域问题.md"}'),t={name:"articles/跨域问题.md"},l=e("",6),n=[l];function o(h,r,p,k,c,d){return i(),a("div",null,n)}const g=s(t,[["render",o]]);export{E as __pageData,g as default};
